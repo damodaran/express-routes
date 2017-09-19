@@ -1,0 +1,26 @@
+{
+  "name": "express-routes",
+  "version": "1.0.0",
+  "description": "API Routing built using Express routers",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damodaran/express-routes.git"
+  },
+  "author": "Damodaran",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.11.12"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "nodemon": "^1.9.1"
+  }
+}
