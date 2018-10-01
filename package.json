@@ -2,7 +2,7 @@
   "name": "express-routes",
   "version": "1.0.0",
   "description": "API Routing built using Express routers",
-  "files": [ "./src/"]
+  "files": [ "./src/"],
   "main": "index.js",
   "scripts": {
     "serve": "nodemon app.js",
